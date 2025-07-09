@@ -5,3 +5,4 @@
   - 강의 제공 에셋 사용
 
 [Velog](https://velog.io/@jjg4211/%EA%B3%BC%EC%A0%9C-6%EB%B2%88-%EC%A7%84%ED%96%89-%EC%A4%91)
+[Youtube](https://youtu.be/BA078BqV1Q4)
