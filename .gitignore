@@ -6,7 +6,6 @@
 /Saved/
 
 *.vsconfig
-*.uproject
 
 /Content/*
 !/Content/Blueprints/
